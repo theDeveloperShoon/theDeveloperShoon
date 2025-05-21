@@ -1,11 +1,14 @@
-## Hi there 👋
+# Hi there 👋
 I'm Sean and I'm currently searching for an Android Developer job. 
 
-# About me
+## About me
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
 [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
 
-# Contact me 
+## My Work
+[Datalift](https://github.com/theDeveloperShoon/DataLift): An exercise tracking and social sharing application for Android. This is made using modern techniques such as Coroutines and built using Jetpack Compose, Coil and Roborazzi. 
+
+## Contact me 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/theseancotter/)
 
 
