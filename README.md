@@ -1,4 +1,13 @@
 ## Hi there 👋
+I'm Sean and I'm currently searching for an Android Developer job. 
+
+# About me
+[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
+[![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
+
+# Contact me 
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/theseancotter/)
+
 
 <!--
 **theDeveloperShoon/theDeveloperShoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
