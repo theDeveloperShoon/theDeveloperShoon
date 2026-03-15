@@ -12,6 +12,7 @@ I'm Sean and I'm currently searching for an Android Developer job.
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
 
 ## My Work
+* [ConnectedNeighbor](https://github.com/theDeveloperShoon/connectedneighbor.org): Source code of my website ConnectedNeighbor.org.  Currently work-in-progress.
 * [Datalift](https://github.com/theDeveloperShoon/DataLift): An exercise tracking and social sharing application for Android. This is made using modern techniques such as Coroutines and built using Jetpack Compose, Coil, JaCoCo and Roborazzi. 
 * [D&D Battle Previewer](https://github.com/theDeveloperShoon/dnd-battle-previewer): An application that allows the user to preview battle initiative inside Dungeons and Dragons.  This is made using Electron JS
 * [BlockPlacingGame(BPG)](https://github.com/theDeveloperShoon/BlockPlacingGame): A game made using the Unity Game Engine and C#.  This game was made to overcome the shortcomings of the game it is inspired off of.  
